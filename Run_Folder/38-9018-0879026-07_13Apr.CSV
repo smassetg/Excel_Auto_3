@@ -1,9 +1,0 @@
-Account number,Date,Memo/Description,Source Code (payment type),TP ref,TP part,TP code,OP ref,OP part,OP code,OP name,OP Bank Account Number,Amount (credit),Amount (debit),Amount,Balance
-38-9018-0879026-07,11-02-2020,TRANSFER TO S R I MASSET-GLENCROSS - 02 ;Emergency Invest Personal,,Personal,Emergency,Invest,Personal,Emergency,Invest,S R I MASSET-GLENCROSS,38-9018-0879026-02,,868.18,-868.18,0.00
-38-9018-0879026-07,18-02-2020,PAY S R I Masset - Glencross ;Personal Tax SL,,,Personal Tax,SL,,Personal Tax,SL,S R I Masset - Glencross,03-0211-0410704-25,,915.40,-915.40,-915.40
-38-9018-0879026-07,21-02-2020,Direct Credit NZHL - PT Personal Tax Masset-Glencros ;Ref: NZHL - PT Personal Tax Masset-Glencros,DC,,NZHL - PT,Personal Tax,,,,Masset-Glencros,03-0211-0410704-25,269.33,,269.33,-646.07
-38-9018-0879026-07,27-02-2020,Direct Credit NZHL - PT Personal Tax Masset-Glencros ;Ref: NZHL - PT Personal Tax Masset-Glencros,DC,,NZHL - PT,Personal Tax,,,,Masset-Glencros,03-0211-0410704-25,456.30,,456.30,-189.77
-38-9018-0879026-07,29-02-2020,LOAN INTEREST ;,,,,,,,,,,,1.03,-1.03,-190.80
-38-9018-0879026-07,17-03-2020,Direct Credit NZHL - PT Personal Tax Masset-Glencros ;Ref: NZHL - PT Personal Tax Masset-Glencros,DC,,NZHL - PT,Personal Tax,,,,Masset-Glencros,03-0211-0410704-25,1163.40,,1163.40,972.60
-38-9018-0879026-07,17-03-2020,Direct Credit NZHL - PT Personal Tax Masset-Glencros ;Ref: NZHL - PT Personal Tax Masset-Glencros,DC,,NZHL - PT,Personal Tax,,,,Masset-Glencros,03-0211-0410704-25,1296.00,,1296.00,2268.60
-38-9018-0879026-07,31-03-2020,LOAN INTEREST ;,,,,,,,,,,,0.46,-0.46,2268.14
